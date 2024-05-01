@@ -26,7 +26,7 @@
         <code>git clone https://github.com/gabhz-hausmann/Web-Golang.git</code>
         <li>Navegue até o diretório do projeto:</li>
         <code>cd Web-Golang</code>
-        <li>Instale o pacote que fornece suporte para acessar banco de dados PostgreSQL</li>
+        <li>Instale o pacote que fornece suporte para acessar banco de dados PostgreSQL:</li>
         <code>go get github.com/lib/pq</code>
         <li>Execute o aplicativo:</li>
         <code>go run main.go</code>

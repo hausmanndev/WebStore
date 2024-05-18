@@ -6,7 +6,7 @@ import (
 )
 
 func ConnectionDB() *sql.DB {
-	dns := "user=postgres  dbname=gabriel_loja password=750317 host=localhost sslmode=disable"
+	dns := "user=postgres  dbname=gabriel_loja password=****** host=********* sslmode=disable"
 	db, err := sql.Open("postgres", dns)
 	if err != nil {
 		panic(err.Error())

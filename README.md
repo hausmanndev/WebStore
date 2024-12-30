@@ -50,10 +50,6 @@
     </ul>
 </section>
 
-<section>
-    <h2>Agradecimentos</h2>
-    <ul>
-        <li>Agradeço a <a href="https://www.alura.com.br/">Alura</a> por ter uma plataforma sensacional que oferta cursos como <a href="https://www.alura.com.br/curso-online-go-lang-web">esse</a>.</li>
     </ul>
 </section>
 

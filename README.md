@@ -23,9 +23,9 @@
     <h3>Instalação</h3>
     <ol>
         <li>Clone o repositório para o seu diretório local:</li>
-        <code>git clone https://github.com/gabhz-hausmann/Web-Golang.git</code>
+        <code>git clone https://github.com/ghhausmann/Simple-WebStore.git</code>
         <li>Navegue até o diretório do projeto:</li>
-        <code>cd Web-Golang</code>
+        <code>cd Simple-WebStore</code>
         <li>Instale o pacote que fornece suporte para acessar banco de dados PostgreSQL:</li>
         <code>go get github.com/lib/pq</code>
         <li>Execute o aplicativo:</li>

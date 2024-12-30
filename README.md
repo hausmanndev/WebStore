@@ -50,7 +50,3 @@
     </ul>
 </section>
 
-    </ul>
-</section>
-
-</body>

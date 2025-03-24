@@ -23,7 +23,7 @@
     <h3>Instalação</h3>
     <ol>
         <li>Clone o repositório para o seu diretório local:</li>
-        <code>git clone https://github.com/ghhausmann/Simple-WebStore.git</code>
+        <code>git clone https://github.com/hausmanndev/Simple-WebStore.git</code>
         <li>Navegue até o diretório do projeto:</li>
         <code>cd Simple-WebStore</code>
         <li>Instale o pacote que fornece suporte para acessar banco de dados PostgreSQL:</li>
@@ -46,7 +46,7 @@
 <section>
     <h2>Autores</h2>
     <ul>
-        <li>Nome do autor - <a href="https://github.com/gabhz-hausmann">@gabhz-hausmann</a></li>
+        <li>Nome do autor - <a href="https://github.com/hausmanndev">@gabhz-hausmann</a></li>
     </ul>
 </section>
 

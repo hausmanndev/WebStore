@@ -25,7 +25,7 @@
         <li>Clone o repositório para o seu diretório local:</li>
         <code>git clone https://github.com/hausmanndev/WebStore.git</code>
         <li>Navegue até o diretório do projeto:</li>
-        <code>cd Simple-WebStore</code>
+        <code>cd WebStore</code>
         <li>Instale o pacote que fornece suporte para acessar banco de dados PostgreSQL:</li>
         <code>go get github.com/lib/pq</code>
         <li>Execute o aplicativo:</li>
